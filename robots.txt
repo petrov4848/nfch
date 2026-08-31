@@ -1,6 +1,0 @@
-User-Agent: *
-Disallow: /page50023219.html
-Disallow: /page50037671.html
-Disallow: /files/
-Disallow: /*_escaped_fragment_*
-Allow: /
